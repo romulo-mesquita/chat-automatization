@@ -1,0 +1,74 @@
+[
+  {
+    "role": "system",
+    "content": "Você é um assistente de pedidos de entrega. Identifique o que o cliente deseja fazer e colete as informações necessárias."
+  },
+  {
+    "role": "user",
+    "content": "ola"
+  },
+  {
+    "role": "assistant",
+    "content": "Olá! Como posso ajudar você com seu pedido de entrega hoje?"
+  },
+  {
+    "role": "user",
+    "content": "ola"
+  },
+  {
+    "role": "assistant",
+    "content": "Olá novamente! Como posso assisti-lo com seu pedido de entrega?"
+  },
+  {
+    "role": "user",
+    "content": "olá"
+  },
+  {
+    "role": "assistant",
+    "content": "Olá! Em que posso ajudar você com seu pedido de entrega hoje?"
+  },
+  {
+    "role": "user",
+    "content": "olá"
+  },
+  {
+    "role": "assistant",
+    "content": "Olá! Por favor, me informe como posso ajudar com seu pedido de entrega."
+  },
+  {
+    "role": "user",
+    "content": "Rua A, 222, bairro centro"
+  },
+  {
+    "role": "assistant",
+    "content": "Endereço: Rua A, 222, Bairro: centro. Confirma dados de endereço e bairro para entrega? (s/n):"
+  },
+  {
+    "role": "user",
+    "content": "s"
+  },
+  {
+    "role": "user",
+    "content": "A entrega já foi paga? (s/n): "
+  },
+  {
+    "role": "user",
+    "content": "s"
+  },
+  {
+    "role": "assistant",
+    "content": "Solicitada com sucesso."
+  },
+  {
+    "role": "user",
+    "content": "consultar entrega"
+  },
+  {
+    "role": "assistant",
+    "content": "Status da entrega consultado com sucesso!"
+  },
+  {
+    "role": "user",
+    "content": "cancelar entrega"
+  }
+]
